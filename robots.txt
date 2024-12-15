@@ -1,0 +1,17 @@
+# www.robotstxt.org
+
+# Allow crawling of all content
+User-agent: *
+Allow: /
+Sitemap: https://www.curiousmimi.com/sitemap.xml
+
+#User-agent: Yeti
+#User-agent: Naverbot
+#User-agent: Googlebot
+#User-agent: bing
+#User-agent: Slurp
+#User-agent: Daum
+#User-agent: Yandex
+#User-agent: Baiduspider
+#Disallow: /private*/
+
